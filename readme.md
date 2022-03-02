@@ -9,3 +9,4 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| Nombre del Explorer | [Blog de @explorer](https://carlogilmar.xyz/blog/) |
