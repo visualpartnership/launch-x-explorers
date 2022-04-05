@@ -20,3 +20,4 @@ Marzo, 2022
 | Katty Hernandez | [Blog de @KattyHernandez](https://100katty.github.io/my_launchx_blog/) |
 | Jair Diaz | [Blog de @JairDiaz23](https://jairdiaz23.github.io/my_launchx_blog/) |
 | Alex Silva | [Blog de @firealxhunter](https://github.com/FirealxHunter/my_launchx_blog) | 
+| R2-D2 | [Blog de @Arthur-R2D2](https://arthur-r2d2.github.io/my_launchx_blog/) |
