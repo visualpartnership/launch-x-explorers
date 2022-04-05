@@ -24,3 +24,4 @@ Marzo, 2022
 | Alejandro Cortés | [Blog de @alcortes-dev](https://alcortes-dev.github.io/alcortes_launchx_blog/) |
 | Alex Silva | [Blog de @firealxhunter](https://github.com/FirealxHunter/my_launchx_blog) | 
 | R2-D2 | [Blog de @Arthur-R2D2](https://arthur-r2d2.github.io/my_launchx_blog/) |
+| Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
