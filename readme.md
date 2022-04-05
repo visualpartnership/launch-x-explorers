@@ -3,7 +3,7 @@
 
 Launch X Misión Backend
 ---
-Marzo, 2022
+Abril, 2022
 
 
 | Explorer ⭐️ | Blog 🚀 |
@@ -28,3 +28,4 @@ Marzo, 2022
 | Erick G | [Blog de @erykzon](https://erykzon.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
 | Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
+| Víctor García | [Blog de @vicogarcia16](https://vicogarcia16.github.io/my_launchx_blog/) |
