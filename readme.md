@@ -9,3 +9,4 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| Dany Veneno| [Blog de @explorer](https://github.com/DanyVeneno/my_launchx_blog-jv) |
