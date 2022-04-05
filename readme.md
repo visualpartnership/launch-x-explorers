@@ -17,3 +17,4 @@ Marzo, 2022
 | Omar Ventura | [Blog de @OmarVenturaP](https://omarventurap.github.io/my_launchx_blog/posts/) |
 | Jaime Chacón | [Blog de @jaimechacon](https://jaimechacon11.github.io/my_launchx_blog/) |
 | Dany Veneno| [Blog de @DannyVeneno](https://github.com/DanyVeneno/my_launchx_blog-jv) |
+| Jair Diaz | [Blog de @JairDiaz23](https://jairdiaz23.github.io/my_launchx_blog/) |
