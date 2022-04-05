@@ -9,6 +9,7 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| Hector Ramirez | [Blog de @HectorRamirezN](https://hectorramirezn.github.io/my_launchx_blog/) |
 | Alberto Valdez  | [Blog de @albertz03_](https://albertz03.github.io/my_launchx_blog/posts/) |
 | Javier Erazo  | [Blog de @JavierErazo](https://javiererazo.github.io/my_launchx_blog/) |
 | Felix Velazco | [Blog de @felixVelazco](https://felixvelazco.github.io/my_launchx_blog/) |
@@ -25,3 +26,4 @@ Marzo, 2022
 | Alex Silva | [Blog de @firealxhunter](https://github.com/FirealxHunter/my_launchx_blog) | 
 | R2-D2 | [Blog de @Arthur-R2D2](https://arthur-r2d2.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
+| Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
