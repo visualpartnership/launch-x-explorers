@@ -9,3 +9,4 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| Felix Velazco | [Blog de @felixVelazco](https://felixvelazco.github.io/my_launchx_blog/) |
