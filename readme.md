@@ -19,3 +19,4 @@ Marzo, 2022
 | Dany Veneno| [Blog de @DannyVeneno](https://github.com/DanyVeneno/my_launchx_blog-jv) |
 | Katty Hernandez | [Blog de @KattyHernandez](https://100katty.github.io/my_launchx_blog/) |
 | Jair Diaz | [Blog de @JairDiaz23](https://jairdiaz23.github.io/my_launchx_blog/) |
+| Alex Silva | [Blog de @firealxhunter](https://github.com/FirealxHunter/my_launchx_blog) | 
