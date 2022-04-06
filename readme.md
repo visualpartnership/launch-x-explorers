@@ -30,8 +30,15 @@ Marzo, 2022
 | Erick G | [Blog de @erykzon](https://erykzon.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
 | Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
+| Alex Madera | [Blog de @maderap.alex](https://alexmaderap.github.io/my_launchx_blog/) |
+| Luis Villegas | [Blog de @villegas97](https://villegas97.github.io/my_launchx_blog/) |
+| Hector Mancilla | [Blog de @hmancillass](https://hectormancillas.github.io/my_launchx_blog/) |
+| Martín González | [Blog de @martinGM05](https://martingm05.github.io/my_launchx_blog/) |
 | Edgar Avila | [Blog de @elrubiomorado](https://elrubiomorado.github.io/my_launchx_blog/) |
 | Alam Mancera | [Blog de @AlamMancera](https://alammancera.github.io/my_launchx_blog/) |
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
-| Victor Vizcarra | [Blog de @explorer](https://viktorvizcarra.github.io/my_launchx_blog/) |
+| Victor Vizcarra | [Blog de @ViktorVizcarra](https://viktorvizcarra.github.io/my_launchx_blog/) |
+
+ 
+
