@@ -30,5 +30,6 @@ Marzo, 2022
 | Erick G | [Blog de @erykzon](https://erykzon.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
 | Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
+| Alam Mancera | [Blog de @AlamMancera](https://alammancera.github.io/my_launchx_blog/) |
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
