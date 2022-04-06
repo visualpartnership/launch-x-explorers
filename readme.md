@@ -30,6 +30,7 @@ Marzo, 2022
 | Erick G | [Blog de @erykzon](https://erykzon.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
 | Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
+| Magdiel Grande | [Blog de @MagdielGrande](https://magdielgrande.github.io/my_launchx_blog/) |
 | Alex Madera | [Blog de @maderap.alex](https://alexmaderap.github.io/my_launchx_blog/) |
 | Luis Villegas | [Blog de @villegas97](https://villegas97.github.io/my_launchx_blog/) |
 | Hector Mancilla | [Blog de @hmancillass](https://hectormancillas.github.io/my_launchx_blog/) |
@@ -38,4 +39,3 @@ Marzo, 2022
 | Alam Mancera | [Blog de @AlamMancera](https://alammancera.github.io/my_launchx_blog/) |
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
- 
