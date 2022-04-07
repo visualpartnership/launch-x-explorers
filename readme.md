@@ -43,4 +43,5 @@ Marzo, 2022
 | Jonathan Salas | [Blog de @jonnysc](https://jonnysc.github.io/my_launchx_blog/) |
 | Raul Quintero | [Blog de @raulquintero](https://raulquintero13.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
- 
+| Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
+| Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
