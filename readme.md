@@ -9,4 +9,4 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
-| Jorge Barrera | [Blog de @explorer](https://barrera08.github.io/my_launchx_blog/) |
+| Jorge Barrera | [Blog de @Jorge Barrera](https://barrera08.github.io/my_launchx_blog/) |
