@@ -28,4 +28,4 @@ Marzo, 2022
 | Erick G | [Blog de @erykzon](https://erykzon.github.io/my_launchx_blog/) |
 | Ixshel Corona| [Blog de @IxshelC](https://ixshelc.github.io/my_launchx_blog/) |
 | Angel2Moreno | [Blog de @Angel2Moreno](https://angel2moreno.github.io/my_launchx_blog/) |
-| Sergio López | [Blog de @softnya](https://softnya.github.io/my_launchx_blog/) |
+| Sergio López | [Blog de @sergiolopezloya](https://sergiolopezloya.github.io/my_launchx_blog/) |
