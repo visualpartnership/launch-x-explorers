@@ -8,6 +8,7 @@ Marzo, 2022
 
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
+| Luis Ontiveros | [Blog de @explorer](https://ontiverosluis.github.io/my_launchx_blog/) |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
