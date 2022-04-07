@@ -9,7 +9,9 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| Sarah Lu | [Blog de @Sarah300921](https://sarah300921.github.io/my_launchx_blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
+| Jesús Beltrán B | [Blog de @jesusbeb](https://jesusbeb.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
 | Hector Ramirez | [Blog de @HectorRamirezN](https://hectorramirezn.github.io/my_launchx_blog/) |
 | Alberto Valdez  | [Blog de @albertz03_](https://albertz03.github.io/my_launchx_blog/posts/) |
@@ -40,5 +42,4 @@ Marzo, 2022
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
 | Jonathan Salas | [Blog de @jonnysc](https://jonnysc.github.io/my_launchx_blog/) |
 | Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
-
- 
+| Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
