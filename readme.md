@@ -39,5 +39,5 @@ Marzo, 2022
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
 | Jonathan Salas | [Blog de @jonnysc](https://jonnysc.github.io/my_launchx_blog/) |
-
+| Michell García | [Blog de @AleGV258](https://alegv258.github.io/my_launchx_blog/) |
  
