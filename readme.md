@@ -9,6 +9,7 @@ Marzo, 2022
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
+| André Díaz | [Blog de @WollenMoth](https://wollenmoth.github.io/my_launchx_blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
 | Hector Ramirez | [Blog de @HectorRamirezN](https://hectorramirezn.github.io/my_launchx_blog/) |
