@@ -45,4 +45,5 @@ Marzo, 2022
 | Raul Quintero | [Blog de @raulquintero](https://raulquintero13.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
 | Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
-| Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
+| Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
+| Magdiel Grande | [Blog de @MagdielGrande](https://magdielgrande.github.io/my_launchx_blog/) |
