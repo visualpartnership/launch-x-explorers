@@ -46,3 +46,4 @@ Marzo, 2022
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
 | Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
+| Carlos Beltrán | [Blog de @CarlosDaniel111](https://carlosdaniel111.github.io/my_launchx_blog/) |
