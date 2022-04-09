@@ -11,6 +11,7 @@ Marzo, 2022
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
+| Ramsess Santoyo | [Blog de @RamSantoyo](https://ramsantoyo.github.io/my_launchx_blog/) |
 | Hector Ramirez | [Blog de @HectorRamirezN](https://hectorramirezn.github.io/my_launchx_blog/) |
 | Alberto Valdez  | [Blog de @albertz03_](https://albertz03.github.io/my_launchx_blog/posts/) |
 | Javier Erazo  | [Blog de @JavierErazo](https://javiererazo.github.io/my_launchx_blog/) |
@@ -39,5 +40,5 @@ Marzo, 2022
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
 | Jonathan Salas | [Blog de @jonnysc](https://jonnysc.github.io/my_launchx_blog/) |
-| Ramsess Santoyo | [Blog de @RamSantoyo](https://ramsantoyo.github.io/my_launchx_blog/) |
+
  
