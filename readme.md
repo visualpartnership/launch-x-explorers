@@ -8,7 +8,6 @@ Marzo, 2022
 
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
-| Ivan Zenteno  | [Blog de @ivanzenteno](https://ivanzenteno.github.io/my_launchx_blog/) |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Sarah Lu | [Blog de @Sarah300921](https://sarah300921.github.io/my_launchx_blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
@@ -47,3 +46,4 @@ Marzo, 2022
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
 | Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
+| Ivan Zenteno  | [Blog de @ivanzenteno](https://ivanzenteno.github.io/my_launchx_blog/) |
