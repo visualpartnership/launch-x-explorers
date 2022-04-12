@@ -48,3 +48,4 @@ Marzo, 2022
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
 | Leonardo De Alba | [Blog de @explorer](https://aognyan.github.io/my_launchx_blog/) |
 | David Merino Pérez | [Blog de @DavidMerino25](https://github.com/DavidMerino25) |
+| Nombre del Explorer | [Blog de @Ricardo-G-Garcia](https://ricardo-g-garcia.github.io/my_launchx_blog/) |
