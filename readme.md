@@ -5,7 +5,7 @@ Launch X Misión Backend
 ---
 Marzo, 2022
 
-
+| Urivan Rubio | [Blog de @explorer](https://urivan07.github.io/my_launchx_blog/) |
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
