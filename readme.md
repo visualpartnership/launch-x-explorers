@@ -14,7 +14,7 @@ Marzo, 2022
 | Jesús Beltrán B | [Blog de @jesusbeb](https://jesusbeb.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
 | Hector Ramirez | [Blog de @HectorRamirezN](https://hectorramirezn.github.io/my_launchx_blog/) |
-| Alberto Valdez  | [Blog de @albertz03_](https://albertz03.github.io/my_launchx_blog/posts/) |
+| Alberto Valdez  | [Blog de @albertz03_](https://albertz03.github.io/my_launchx_blog/) |
 | Javier Erazo  | [Blog de @JavierErazo](https://javiererazo.github.io/my_launchx_blog/) |
 | Felix Velazco | [Blog de @felixVelazco](https://felixvelazco.github.io/my_launchx_blog/) |
 | Fernando de la C | [Blog de @explorer](https://fernandocd0.github.io/my_launchx_blog/) |
