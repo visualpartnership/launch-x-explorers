@@ -49,4 +49,3 @@ Marzo, 2022
 | Leonardo De Alba | [Blog de @explorer](https://aognyan.github.io/my_launchx_blog/) |
 | David Merino Pérez | [Blog de @DavidMerino25](https://github.com/DavidMerino25) |
 | Eduardo Morales | [Blog de @EduardoMorales98](https://eduardomorales98.github.io/my_launchx_blog/) |
-
