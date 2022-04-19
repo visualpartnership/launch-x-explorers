@@ -53,4 +53,4 @@ Marzo, 2022
 | Enrique Mendoza | [Blog de @enrique-mendoza](https://enrique-mendoza.github.io/my_launchx_blog/) |
 | Alberto Méndez Blanco | [Blog de @AlbertoMWT](https://albertomwt.github.io/my_launchx_blog/) |
 | Joaquín Castañeda | [Blog de @JoaquinCasta](https://carjcc.github.io/my_launchx_blog/) |
-| Santiago Tenorio | [Blog de @SantiagoTenorio](https://github.com/SantiagoTenorio/my_launchx_blog) |
+| Santiago Tenorio | [Blog de @SantiagoTenorio](https://santiagotenorio.github.io/my_launchx_blog/) |
