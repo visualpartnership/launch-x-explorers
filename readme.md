@@ -10,6 +10,7 @@ Marzo, 2022
 | ------------- | ------------- |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Julio García | [Blog de @garguidevsw](https://garguidevsw.github.io/my_launchx_blog/) |
+| Fatima Gloria | [Blog de @FatimaGloria](https://fatimagloria.github.io/my_launchx_blog/) |
 | Sarah Lu | [Blog de @Sarah300921](https://sarah300921.github.io/my_launchx_blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
 | Jesús Beltrán B | [Blog de @jesusbeb](https://jesusbeb.github.io/my_launchx_blog/) |
@@ -42,8 +43,14 @@ Marzo, 2022
 | Bernardo Espinoza | [Blog de @BernardoEspinoza02](https://bernardoespinoza02.github.io/my_launchx_blog/) |
 | Moises Mendoza | [Blog de @moisesmendozas01](https://moisesmendozas01.github.io/my_launchx_blog/) |
 | Jonathan Salas | [Blog de @jonnysc](https://jonnysc.github.io/my_launchx_blog/) |
+| Andrea Curiel | [Blog de @AndreaCuriel](https://andreacuriel.github.io/my_launchx_blog/) |
 | Luis Trejo | [Blog de @luisGuillermoTrejoMota](https://luisguillermotrejomota.github.io/my_launchx_blog/) |
 | Raul Quintero | [Blog de @raulquintero](https://raulquintero13.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) |
 | Marco Torres | [Blog de @SoyMarcoTorres](https://soymarcotorres.github.io/my_launchx_blog/) |
 | Jose Cancino | [Blog de @explorer](https://josecancinor.github.io/my_launchx_blog/) | 
+| Leonardo De Alba | [Blog de @explorer](https://aognyan.github.io/my_launchx_blog/) |
+| David Merino Pérez | [Blog de @DavidMerino25](https://github.com/DavidMerino25) |
+| Enrique Mendoza | [Blog de @enrique-mendoza](https://enrique-mendoza.github.io/my_launchx_blog/) |
+| Alberto Méndez Blanco | [Blog de @AlbertoMWT](https://albertomwt.github.io/my_launchx_blog/) |
+| Joaquín Castañeda | [Blog de @JoaquinCasta](https://carjcc.github.io/my_launchx_blog/) |
