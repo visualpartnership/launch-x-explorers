@@ -11,6 +11,7 @@ Marzo, 2022
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Fatima Gloria | [Blog de @FatimaGloria](https://fatimagloria.github.io/my_launchx_blog/) |
 | Sarah Lu | [Blog de @Sarah300921](https://sarah300921.github.io/my_launchx_blog/) |
+| Harry Gómez | [Blog de @hraayan](https://hraayan.github.io/my_launchx_blog/) |
 | Alejandro Castañeda | [Blog de @AlejandroCastaneda52](https://alejandrocastaneda52.github.io/my_launchx_blog/) |
 | Jesús Beltrán B | [Blog de @jesusbeb](https://jesusbeb.github.io/my_launchx_blog/) |
 | Raquel Sanchez  | [Blog de @Raquel240517](https://raquel240517.github.io/my_launchx_blog/) |
