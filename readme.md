@@ -8,6 +8,7 @@ Marzo, 2022
 
 | Explorer ⭐️ | Blog 🚀 |
 | ------------- | ------------- |
+| Paúl Ríos | [Blog de @explorer](https://paulhrios.github.io/my_launchx_blog/) |
 | Carlo Gilmar  | [Blog de @carlogilmar](https://carlogilmar.xyz/blog/) |
 | Fatima Gloria | [Blog de @FatimaGloria](https://fatimagloria.github.io/my_launchx_blog/) |
 | Sarah Lu | [Blog de @Sarah300921](https://sarah300921.github.io/my_launchx_blog/) |
@@ -53,4 +54,4 @@ Marzo, 2022
 | Enrique Mendoza | [Blog de @enrique-mendoza](https://enrique-mendoza.github.io/my_launchx_blog/) |
 | Alberto Méndez Blanco | [Blog de @AlbertoMWT](https://albertomwt.github.io/my_launchx_blog/) |
 | Joaquín Castañeda | [Blog de @JoaquinCasta](https://carjcc.github.io/my_launchx_blog/) |
-| Paúl Ríos | [Blog de @explorer](https://paulhrios.github.io/my_launchx_blog/) |
+
